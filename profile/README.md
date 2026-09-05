@@ -46,6 +46,9 @@ Unsere Arbeit ist einsehbar: Werkzeuge, die wir für uns bauen, veröffentlichen
 | [**GlassKit**](https://github.com/JUNGHERZ/GlassKit) | Glassmorphism-CSS-Komponentenbibliothek (iOS-26-Liquid-Glass-Look): 24 Komponenten, Dark & Light Mode, Design Tokens — ohne Abhängigkeiten | CSS / HTML |
 | [**GlassKit-Elements**](https://github.com/JUNGHERZ/GlassKit-Elements) | Vanilla-JS-Web-Components für GlassKit: Shadow DOM, native Form-Integration, 27 Komponenten | JavaScript |
 | [**GlassKit-Web**](https://github.com/JUNGHERZ/GlassKit-Web) | Astro-Template in der GlassKit-Designsprache: zweisprachig, SEO, No-JS-Fallbacks | Astro |
+| [**NotionKit**](https://github.com/JUNGHERZ/NotionKit) | Der ruhige Notion-Look als CSS-Designsystem: ~100 Komponenten, Light & Dark Mode, Design Tokens, Editor-Adapter (TipTap/BlockNote/Novel) — ohne JavaScript, ohne Build-Step | CSS / HTML |
+| [**NotionKit-Elements**](https://github.com/JUNGHERZ/NotionKit-Elements) | 68 Vanilla-JS-Web-Components (`<nk-*>`) für NotionKit: Shadow DOM, native Form-Integration, pixelgenau zur Klassen-Variante | JavaScript |
+| [**NotionKit-Web**](https://github.com/JUNGHERZ/NotionKit-Web) | Astro-Template für komplette Websites im Notion-Look: Doku, Wissensdatenbank, Blog — zweisprachig, getestet, ohne externe Requests | Astro |
 | [**Voice-Office-Hub**](https://github.com/JUNGHERZ/Voice-Office-Hub) | Self-hosted KI-Telefonie-Appliance (Asterisk + Deepgram): annehmen, führen, übergeben, transkribieren — DSGVO-freundlich, ein Docker-Container | TypeScript |
 | [**MakeMyGame**](https://github.com/JUNGHERZ/MakeMyGame) | Spielidee beschreiben — die KI baut ein spielbares Retro-Game im Gameboy- oder SNES-Stil | JavaScript |
 | [**StripeJack**](https://github.com/JUNGHERZ/StripeJack) | Stripe-Transaktionen nach DATEV exportieren: EXTF-Buchungsstapel, Belegarchiv, Erlösabgrenzung — läuft lokal | TypeScript |
