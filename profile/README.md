@@ -1,68 +1,74 @@
-# JUNGHERZ — Digitalisierung, die im Alltag ankommt.
+<img src="https://raw.githubusercontent.com/JUNGHERZ/.github/main/profile/banner.png" alt="JUNGHERZ – Digitalisierung, die im Alltag ankommt. Prozessdigitalisierung, Individualentwicklung, eigene SaaS-Produkte" width="100%">
 
-> Wir entwickeln Apps, Plattformen und Individualsoftware, automatisieren Prozesse mit KI
-> und betreiben skalierbare Cloud-Lösungen — auch unsere eigenen.
+Wir entwickeln Apps, Plattformen und Individualsoftware, automatisieren Prozesse mit KI und betreiben skalierbare Cloud-Lösungen – auch unsere eigenen. Diese Betreiber-Erfahrung fließt in jedes Kundenprojekt.
 
-[![Website](https://img.shields.io/badge/Website-jungherz.com-000000?style=flat-square)](https://jungherz.com/)
-[![Projekte](https://img.shields.io/badge/umgesetzte_Projekte-60%2B-2ea44f?style=flat-square)](#was-wir-tun)
-[![Erfahrung](https://img.shields.io/badge/Entwicklung_%26_Beratung-15_Jahre-blue?style=flat-square)](#was-wir-tun)
-[![Hosting](https://img.shields.io/badge/Hosting-100%25_Deutschland-orange?style=flat-square)](#was-wir-tun)
-[![Erstgespräch](https://img.shields.io/badge/Erstgespräch-kostenlos_buchen-brightgreen?style=flat-square)](https://tidycal.com/jungherz/erstgespraech)
+**[jungherz.com](https://jungherz.com/)** · [Erstgespräch buchen](https://tidycal.com/jungherz/erstgespraech) · [Prozess-Sprint](https://jungherz.com/sprint/) · [Das Buch „SaS“](https://jungherz.com/service-as-software/) · [kontakt@jungherz.com](mailto:kontakt@jungherz.com)
 
----
+| 60+ | 15 Jahre | < 24 h | 100 % |
+|:---:|:---:|:---:|:---:|
+| umgesetzte Projekte | Entwicklung & Beratung | Reaktionszeit im Support | Hosting in Deutschland |
 
-## 🧭 Wer wir sind
+## Wer wir sind
 
-Die Jungherz GmbH ist ein Software-Unternehmen aus Deutschland.
-Wir bauen Software nicht nur — **wir betreiben und vermarkten sie selbst**.
-Diese Betreiber-Erfahrung fließt in jedes Kundenprojekt: ehrlicher, robuster, langfristiger.
+Die Jungherz GmbH aus Dorsten baut Software nicht nur – **wir betreiben und vermarkten sie selbst**. Wer eigene Produkte am Markt hält, plant Kundenprojekte anders: ehrlicher, robuster, langfristiger. Ihr Ansprechpartner ist [Marcel Karas](https://jungherz.com/marcel/), Geschäftsführer, seit 1997 in der IT und seit über 15 Jahren Unternehmer.
 
-## 🧱 Was wir tun
+## Was wir tun
 
-Vier Leistungsbereiche, die ineinandergreifen — von der ersten App-Idee bis zum laufenden Betrieb:
+- **App- & Individualentwicklung:** Web- und Mobile-Apps, die zu Ihren Prozessen passen, nicht umgekehrt.
+- **Baukasten-Systeme:** Wiederkehrendes als konfigurierbare Module. Neues entsteht in Wochen statt Monaten.
+- **KI-Automatisierung:** vom Telefon-Assistenten bis zur Dokumenten- und Datenauswertung.
+- **Cloud-Lösungen & Betrieb:** skalierbare Architekturen, von uns betrieben, gehostet in Deutschland.
 
-- 📱 **App- & Individualentwicklung** — Web- und Mobile-Apps, die zu Ihren Prozessen passen, nicht umgekehrt
-- 🧩 **Baukasten-Systeme** — Wiederkehrendes als konfigurierbare Module: Neues in Wochen statt Monaten
-- 🤖 **KI-Automatisierung** — vom Telefon-Assistenten bis zur Dokumenten- und Datenauswertung
-- ☁️ **Cloud-Lösungen & Betrieb** — skalierbare Architekturen, von uns betrieben, gehostet in Deutschland
+**Der Einstieg: der Prozess-Sprint.** In 10 Arbeitstagen vom Engpass zum klickbaren Prototyp. Festpreis ab 2.900 € netto, bei Beauftragung der Umsetzung innerhalb von 60 Tagen voll angerechnet. [So läuft der Sprint ab →](https://jungherz.com/sprint/)
 
-## 🚀 Unsere eigenen Produkte
+## Unsere Produkte
 
-Vier eigene SaaS-Lösungen laufen bei uns im Echtbetrieb — mit allem, was dazugehört: Skalierung, Support, Vermarktung.
+Vier eigene SaaS-Lösungen laufen bei uns im Echtbetrieb, mit allem, was dazugehört: Skalierung, Support, Vermarktung.
 
 | Produkt | Was es tut |
 |---|---|
-| [**AppConfector**](https://www.appconfector.de/) | Der App-Baukasten für den Mittelstand: Kommunikation, Präsentation und Verkauf aus einem System |
-| [**BeautyStar**](https://beautystar.app/) | Das Netflix-Prinzip für Friseur- und Kosmetikstudios — der Sidekick für stabile Umsätze |
-| [**MonaHilft**](https://www.monahilft.de/) | KI-Telefonassistenz, die ein- und ausgehende Gespräche intelligent und natürlich übernimmt |
-| [**GastFlix**](https://gastflix.de/) | Mehr als eine digitale Gästemappe: die Zukunft der Gästebeziehungen in Hotellerie & Vermietung |
+| [**AppConfector**](https://www.appconfector.de/) | Der App-Baukasten für den Mittelstand: Kommunikation, Präsentation und Verkauf aus einem System. |
+| [**EhrenPfoten**](https://ehrenpfoten.app/) | Ehrenamt im Tierheim, einfach organisiert: Ehrenamtliche buchen Gassigänge per App, das Team plant Zeitfenster und Freigaben an einem Ort. |
+| [**MonaHilft**](https://www.monahilft.de/) | KI-Telefonassistenz, die ein- und ausgehende Gespräche intelligent und natürlich wirkend übernimmt. |
+| [**StripeJack**](https://stripe-jack.cloud/) | Stripe-Umsätze als DATEV-Buchungsstapel: gehostet, monatlich automatisch und ohne Transaktionslimit, verarbeitet in Deutschland. |
 
-## 🌍 Open Source
+## Das Buch
 
-Unsere Arbeit ist einsehbar: Werkzeuge, die wir für uns bauen, veröffentlichen wir, wo es geht — als Beleg, der sich prüfen lässt.
+<img src="https://raw.githubusercontent.com/JUNGHERZ/.github/main/profile/sas-cover.jpg" alt="Buchcover „SaS – Ein ‚a‘ weniger – und kein Unternehmen bleibt, wie es war“ von Marcel Karas" width="120" align="left">
 
-| Repository | Beschreibung | Stack |
-|---|---|---|
-| [**GlassKit**](https://github.com/JUNGHERZ/GlassKit) | Glassmorphism-CSS-Komponentenbibliothek (iOS-26-Liquid-Glass-Look): 24 Komponenten, Dark & Light Mode, Design Tokens — ohne Abhängigkeiten | CSS / HTML |
-| [**GlassKit-Elements**](https://github.com/JUNGHERZ/GlassKit-Elements) | Vanilla-JS-Web-Components für GlassKit: Shadow DOM, native Form-Integration, 27 Komponenten | JavaScript |
-| [**GlassKit-Web**](https://github.com/JUNGHERZ/GlassKit-Web) | Astro-Template in der GlassKit-Designsprache: zweisprachig, SEO, No-JS-Fallbacks | Astro |
-| [**NotionKit**](https://github.com/JUNGHERZ/NotionKit) | Der ruhige Notion-Look als CSS-Designsystem: ~100 Komponenten, Light & Dark Mode, Design Tokens, Editor-Adapter (TipTap/BlockNote/Novel) — ohne JavaScript, ohne Build-Step | CSS / HTML |
-| [**NotionKit-Elements**](https://github.com/JUNGHERZ/NotionKit-Elements) | 68 Vanilla-JS-Web-Components (`<nk-*>`) für NotionKit: Shadow DOM, native Form-Integration, pixelgenau zur Klassen-Variante | JavaScript |
-| [**NotionKit-Web**](https://github.com/JUNGHERZ/NotionKit-Web) | Astro-Template für komplette Websites im Notion-Look: Doku, Wissensdatenbank, Blog — zweisprachig, getestet, ohne externe Requests | Astro |
-| [**Voice-Office-Hub**](https://github.com/JUNGHERZ/Voice-Office-Hub) | Self-hosted KI-Telefonie-Appliance (Asterisk + Deepgram): annehmen, führen, übergeben, transkribieren — DSGVO-freundlich, ein Docker-Container | TypeScript |
-| [**MakeMyGame**](https://github.com/JUNGHERZ/MakeMyGame) | Spielidee beschreiben — die KI baut ein spielbares Retro-Game im Gameboy- oder SNES-Stil | JavaScript |
-| [**StripeJack**](https://github.com/JUNGHERZ/StripeJack) | Stripe-Transaktionen nach DATEV exportieren: EXTF-Buchungsstapel, Belegarchiv, Erlösabgrenzung — läuft lokal | TypeScript |
-| [**md2webui**](https://github.com/JUNGHERZ/md2webui) | Markdown-Chatlogs (ChatGPT-Exporte) in das JSON-Importformat von Open WebUI konvertieren | Python |
-| [**eps2svg**](https://github.com/JUNGHERZ/eps2svg) | Adobe-Illustrator-EPS nach SVG konvertieren — mit nativen Verläufen und korrekten CMYK-Farben | Python |
+**SaS – Ein ‚a‘ weniger – und kein Unternehmen bleibt, wie es war** von Marcel Karas, erschienen im Oktober 2026. Aus Software-as-a-Service wird Service-as-Software: Unternehmen kaufen in Zukunft keine Software mehr, sie kaufen Ergebnisse. Ein Leitfaden für Verantwortliche, mit HITL-Stufenmodell, 90-Tage-Plan und einer echten Fallstudie aus einem Planungsbüro.
 
-## 🤝 Kontakt
+[Zum Buch](https://jungherz.com/service-as-software/) · [Kostenlose Toolbox](https://service-as.software/toolbox/)
 
-Erzählen Sie uns von Ihrem Projekt — wir melden uns mit einer ehrlichen Einschätzung (Reaktionszeit im Support: < 24 h).
+<br clear="left">
 
-- 🌐 Website: [jungherz.com](https://jungherz.com/)
-- 📅 Erstgespräch: [tidycal.com/jungherz/erstgespraech](https://tidycal.com/jungherz/erstgespraech)
-- ✉️ E-Mail: [kontakt@jungherz.com](mailto:kontakt@jungherz.com)
+## Open Source
 
----
+Unsere Arbeit ist einsehbar: Werkzeuge, die wir für uns bauen, veröffentlichen wir, wo es geht. Die Website jungherz.com läuft selbst auf GlassKit.
 
-<sub>JUNGHERZ GmbH · Germany · Persönliche Beratung · Eigene Produkte im Echtbetrieb · Hosting in Deutschland</sub>
+| Repository | Beschreibung | Stack | Lizenz |
+|---|---|---|---|
+| [**GlassKit**](https://github.com/JUNGHERZ/GlassKit) | Glassmorphism-CSS-Komponentenbibliothek (iOS-26-Liquid-Glass-Look): 24 Komponenten, Dark & Light Mode, Design Tokens – ohne Abhängigkeiten | CSS / HTML | MIT |
+| [**GlassKit-Elements**](https://github.com/JUNGHERZ/GlassKit-Elements) | Vanilla-JS-Web-Components für GlassKit: Shadow DOM, native Form-Integration, 27 Komponenten | JavaScript | MIT |
+| [**GlassKit-Web**](https://github.com/JUNGHERZ/GlassKit-Web) | Astro-Template in der GlassKit-Designsprache: zweisprachig, SEO, No-JS-Fallbacks | Astro | MIT |
+| [**NotionKit**](https://github.com/JUNGHERZ/NotionKit) | Der ruhige Notion-Look als CSS-Designsystem: ~100 Komponenten, Light & Dark Mode, Design Tokens, Editor-Adapter (TipTap/BlockNote/Novel) – ohne JavaScript, ohne Build-Step | CSS / HTML | MIT |
+| [**NotionKit-Elements**](https://github.com/JUNGHERZ/NotionKit-Elements) | 68 Vanilla-JS-Web-Components (`<nk-*>`) für NotionKit: Shadow DOM, native Form-Integration, pixelgenau zur Klassen-Variante | JavaScript | MIT |
+| [**NotionKit-Web**](https://github.com/JUNGHERZ/NotionKit-Web) | Astro-Template für komplette Websites im Notion-Look: Doku, Wissensdatenbank, Blog – zweisprachig, getestet, ohne externe Requests | Astro | MIT |
+| [**Voice-Office-Hub**](https://github.com/JUNGHERZ/Voice-Office-Hub) | Self-hosted KI-Telefonie-Appliance (Asterisk + Deepgram): annehmen, führen, übergeben, transkribieren – DSGVO-freundlich, ein Docker-Container | TypeScript | CC BY-NC 4.0 |
+| [**MakeMyGame**](https://github.com/JUNGHERZ/MakeMyGame) | Spielidee beschreiben – die KI baut ein spielbares Retro-Game im Gameboy- oder SNES-Stil | JavaScript | MIT |
+| [**StripeJack**](https://github.com/JUNGHERZ/StripeJack) | Stripe-Transaktionen nach DATEV exportieren: EXTF-Buchungsstapel, Belegarchiv, Erlösabgrenzung – läuft lokal; gehostet als StripeJack.cloud | TypeScript | MIT |
+| [**md2webui**](https://github.com/JUNGHERZ/md2webui) | Markdown-Chatlogs (ChatGPT-Exporte) in das JSON-Importformat von Open WebUI konvertieren | Python | – |
+| [**eps2svg**](https://github.com/JUNGHERZ/eps2svg) | Adobe-Illustrator-EPS nach SVG konvertieren – mit nativen Verläufen und korrekten CMYK-Farben | Python | MIT |
+
+## Kontakt
+
+Erzählen Sie uns von Ihrem Projekt. Wir melden uns mit einer ehrlichen Einschätzung.
+
+- Website: [jungherz.com](https://jungherz.com/)
+- Erstgespräch: [tidycal.com/jungherz/erstgespraech](https://tidycal.com/jungherz/erstgespraech) (30 Minuten, unverbindlich)
+- E-Mail: [kontakt@jungherz.com](mailto:kontakt@jungherz.com)
+- LinkedIn: [Marcel Karas](https://www.linkedin.com/in/marcel-karas-de/)
+
+**In English:** We build apps, platforms and custom software, automate processes with AI and run scalable cloud solutions – including our own products. [jungherz.com/en →](https://jungherz.com/en/)
+
+<sub>Jungherz GmbH · Dorsten, Deutschland · [Impressum](https://jungherz.com/impressum/)</sub>
