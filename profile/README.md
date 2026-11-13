@@ -2,26 +2,31 @@
 
 Wir entwickeln Apps, Plattformen und Individualsoftware, automatisieren Prozesse mit KI und betreiben skalierbare Cloud-Lösungen – auch unsere eigenen. Diese Betreiber-Erfahrung fließt in jedes Kundenprojekt.
 
-**[jungherz.com](https://jungherz.com/)** · [Erstgespräch buchen](https://tidycal.com/jungherz/erstgespraech) · [Prozess-Sprint](https://jungherz.com/sprint/) · [Das Buch „SaS“](https://jungherz.com/service-as-software/) · [kontakt@jungherz.com](mailto:kontakt@jungherz.com)
+<!-- Badges in Markenfarben: dunkel (#262626/#333333, auch auf dunklem GitHub sichtbar), nur „Erstgespräch“ in Orange. Das Orange ist #F5AB23 statt #F5A623,
+     weil shields.io erst ab dieser Helligkeit dunkle Schrift setzt (weiße Schrift auf Orange wäre zu schwach). -->
+[![Website](https://img.shields.io/badge/Website-jungherz.com-333333?style=flat-square&labelColor=262626)](https://jungherz.com/)
+[![Erstgespräch](https://img.shields.io/badge/Erstgespr%C3%A4ch-kostenlos_buchen-f5ab23?style=flat-square&labelColor=262626)](https://tidycal.com/jungherz/erstgespraech)
+[![Prozess-Sprint](https://img.shields.io/badge/Prozess--Sprint-10_Tage_zum_Prototyp-333333?style=flat-square&labelColor=262626)](https://jungherz.com/sprint/)
+[![Buch](https://img.shields.io/badge/Buch-SaS_%E2%80%93_Ein_%E2%80%9Aa%E2%80%98_weniger-333333?style=flat-square&labelColor=262626)](https://jungherz.com/service-as-software/)
 
 | 60+ | 15 Jahre | < 24 h | 100 % |
 |:---:|:---:|:---:|:---:|
 | umgesetzte Projekte | Entwicklung & Beratung | Reaktionszeit im Support | Hosting in Deutschland |
 
-## Wer wir sind
+## 🧭 Wer wir sind
 
 Die Jungherz GmbH aus Dorsten baut Software nicht nur – **wir betreiben und vermarkten sie selbst**. Wer eigene Produkte am Markt hält, plant Kundenprojekte anders: ehrlicher, robuster, langfristiger. Ihr Ansprechpartner ist [Marcel Karas](https://jungherz.com/marcel/), Geschäftsführer, seit 1997 in der IT und seit über 15 Jahren Unternehmer.
 
-## Was wir tun
+## 🧱 Was wir tun
 
-- **App- & Individualentwicklung:** Web- und Mobile-Apps, die zu Ihren Prozessen passen, nicht umgekehrt.
-- **Baukasten-Systeme:** Wiederkehrendes als konfigurierbare Module. Neues entsteht in Wochen statt Monaten.
-- **KI-Automatisierung:** vom Telefon-Assistenten bis zur Dokumenten- und Datenauswertung.
-- **Cloud-Lösungen & Betrieb:** skalierbare Architekturen, von uns betrieben, gehostet in Deutschland.
+- 📱 **App- & Individualentwicklung:** Web- und Mobile-Apps, die zu Ihren Prozessen passen, nicht umgekehrt.
+- 🧩 **Baukasten-Systeme:** Wiederkehrendes als konfigurierbare Module. Neues entsteht in Wochen statt Monaten.
+- 🤖 **KI-Automatisierung:** vom Telefon-Assistenten bis zur Dokumenten- und Datenauswertung.
+- ☁️ **Cloud-Lösungen & Betrieb:** skalierbare Architekturen, von uns betrieben, gehostet in Deutschland.
 
 **Der Einstieg: der Prozess-Sprint.** In 10 Arbeitstagen vom Engpass zum klickbaren Prototyp. Festpreis ab 2.900 € netto, bei Beauftragung der Umsetzung innerhalb von 60 Tagen voll angerechnet. [So läuft der Sprint ab →](https://jungherz.com/sprint/)
 
-## Unsere Produkte
+## 🚀 Unsere Produkte
 
 Vier eigene SaaS-Lösungen laufen bei uns im Echtbetrieb, mit allem, was dazugehört: Skalierung, Support, Vermarktung.
 
@@ -32,7 +37,7 @@ Vier eigene SaaS-Lösungen laufen bei uns im Echtbetrieb, mit allem, was dazugeh
 | [**MonaHilft**](https://www.monahilft.de/) | KI-Telefonassistenz, die ein- und ausgehende Gespräche intelligent und natürlich wirkend übernimmt. |
 | [**StripeJack**](https://stripe-jack.cloud/) | Stripe-Umsätze als DATEV-Buchungsstapel: gehostet, monatlich automatisch und ohne Transaktionslimit, verarbeitet in Deutschland. |
 
-## Das Buch
+## 📖 Das Buch
 
 <img src="https://raw.githubusercontent.com/JUNGHERZ/.github/main/profile/sas-cover.jpg" alt="Buchcover „SaS – Ein ‚a‘ weniger – und kein Unternehmen bleibt, wie es war“ von Marcel Karas" width="120" align="left">
 
@@ -42,7 +47,7 @@ Vier eigene SaaS-Lösungen laufen bei uns im Echtbetrieb, mit allem, was dazugeh
 
 <br clear="left">
 
-## Open Source
+## 🌍 Open Source
 
 Unsere Arbeit ist einsehbar: Werkzeuge, die wir für uns bauen, veröffentlichen wir, wo es geht. Die Website jungherz.com läuft selbst auf GlassKit.
 
@@ -60,14 +65,14 @@ Unsere Arbeit ist einsehbar: Werkzeuge, die wir für uns bauen, veröffentlichen
 | [**md2webui**](https://github.com/JUNGHERZ/md2webui) | Markdown-Chatlogs (ChatGPT-Exporte) in das JSON-Importformat von Open WebUI konvertieren | Python | – |
 | [**eps2svg**](https://github.com/JUNGHERZ/eps2svg) | Adobe-Illustrator-EPS nach SVG konvertieren – mit nativen Verläufen und korrekten CMYK-Farben | Python | MIT |
 
-## Kontakt
+## 🤝 Kontakt
 
 Erzählen Sie uns von Ihrem Projekt. Wir melden uns mit einer ehrlichen Einschätzung.
 
-- Website: [jungherz.com](https://jungherz.com/)
-- Erstgespräch: [tidycal.com/jungherz/erstgespraech](https://tidycal.com/jungherz/erstgespraech) (30 Minuten, unverbindlich)
-- E-Mail: [kontakt@jungherz.com](mailto:kontakt@jungherz.com)
-- LinkedIn: [Marcel Karas](https://www.linkedin.com/in/marcel-karas-de/)
+- 🌐 Website: [jungherz.com](https://jungherz.com/)
+- 📅 Erstgespräch: [tidycal.com/jungherz/erstgespraech](https://tidycal.com/jungherz/erstgespraech) (30 Minuten, unverbindlich)
+- ✉️ E-Mail: [kontakt@jungherz.com](mailto:kontakt@jungherz.com)
+- 💼 LinkedIn: [Marcel Karas](https://www.linkedin.com/in/marcel-karas-de/)
 
 **In English:** We build apps, platforms and custom software, automate processes with AI and run scalable cloud solutions – including our own products. [jungherz.com/en →](https://jungherz.com/en/)
 
